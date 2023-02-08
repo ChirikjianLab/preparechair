@@ -2,7 +2,7 @@
 Prepare the Chair for the Bear
 
 # Authors
-Xin Meng,[Hongtao Wu](https://hongtaowu67.github.io/), [Sipu Ruan](https://ruansp.github.io/), [Gregory Chirikjian](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/)
+Xin Meng, Hongtao Wu, [Sipu Ruan](https://ruansp.github.io/), [Gregory Chirikjian](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/)
 
 Department of Mechanical Engineering, National University of Singapore
 
