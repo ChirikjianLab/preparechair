@@ -1,5 +1,5 @@
 # Prepare the Chair for the Bear
-Prepare the Chair for the Bear
+Prepare the Chair for the Bear! Robot Imagination of Sitting Affordance to Reorient Previously Unseen Chairs
 
 # Authors
 Xin Meng, Hongtao Wu, [Sipu Ruan](https://ruansp.github.io/), [Gregory Chirikjian](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/)
