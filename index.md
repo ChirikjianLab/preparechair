@@ -13,7 +13,7 @@ In this letter, a paradigm for the classification and manipulation of previously
 
 ## Links
 - Arxiv
-- Supplementary Material
+- [Appendix](https://drive.google.com/file/d/1tBryc_sg1pX8GOdvHWhrMP5mv4lRa-wc/view?usp=sharing)
 - [Video](https://youtu.be/33z_6hgmZaI)
 - Code and data will be available
 
