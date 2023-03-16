@@ -13,9 +13,9 @@ In this letter, a paradigm for the classification and manipulation of previously
 
 ## Links
 - Arxiv
-- [Appendix](https://drive.google.com/file/d/1tBryc_sg1pX8GOdvHWhrMP5mv4lRa-wc/view?usp=sharing)
-- [Video](https://youtu.be/33z_6hgmZaI)
+- Appendix
+- Video
 - Code and data will be available
 
 ## Introductory Video
-<iframe width="640" height="360" src="https://www.youtube.com/embed/33z_6hgmZaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
