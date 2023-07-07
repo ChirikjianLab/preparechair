@@ -14,7 +14,7 @@ In this letter, a paradigm for the classification and manipulation of novel obje
 
 ## Links
 - Arxiv
-- [Appendix](https://drive.google.com/file/d/1mbDtyY9cohmeWxxEnC6N0kmzkTsg_kSa/view?usp=share_link)
+- [Appendix](https://drive.google.com/file/d/1cDclWd0HSQsc-MPRctJgVoMBQb1LZofQ/view?usp=sharing)
 - [Video](https://youtu.be/A3ayOnLZI08)
 - Code and data will be available
 
