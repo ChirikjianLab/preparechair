@@ -20,3 +20,7 @@ In this letter, a paradigm for the classification and manipulation of novel obje
 
 ## Introductory Video
 <iframe width="640" height="360" src="https://www.youtube.com/embed/A3ayOnLZI08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Related Links
+- [Is that a chair？](https://chirikjianlab.github.io/chairimagination/)
+- [Put the bear on the chair!](https://chirikjianlab.github.io/putbearonchair/)
